@@ -64,3 +64,8 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+###
+forge script script/DeploySBNFT.s.sol --rpc-url $URL_SEPOLIA --private-key $PRIVATE_KEY --broadcast
+address: 0x2a59575fC7FF26b8d4b932F00323f8513a63BF7a
+then onlyowner can mint to people

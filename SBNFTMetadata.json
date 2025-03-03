@@ -1,0 +1,18 @@
+{
+    "attributes" : [ {
+      "trait_type" : "SBNFT",
+      "value" : "TestSBNFT"
+    }, {
+      "trait_type" : "Asset",
+      "value" : "Non-transferable Badge"
+    }, {
+        "trait_type" : "Badge",
+        "value" : "Minting First Soulbound Token"
+      }, {
+        "trait_type" : "Type",
+        "value" : "Demo"
+      }   ],
+    "description" : "This is a demo soulbound token mint",
+    "image" : "https://gateway.pinata.cloud/ipfs/bafkreidmuyhfnaxbw4zayyd2hmgn56qdue4p3nflkw4qztlzbdgo5olqmi",
+    "name" : "TestSBNFT"
+}
